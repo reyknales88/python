@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PatientManagement</string>
+    <string name="total_spent_placeholder">Total Spent: %s</string>
+</resources>
